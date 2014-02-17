@@ -1,0 +1,59 @@
+{
+	"images": [
+		"http://slider.new/images/1.jpg",
+		"http://slider.new/images/2.jpg",
+		"http://slider.new/images/3.jpg",
+		"http://slider.new/images/4.jpg",
+		"http://slider.new/images/5.jpg",
+		"http://slider.new/images/6.jpg",
+		"http://slider.new/images/7.jpg",
+		"http://slider.new/images/8.jpg"],
+        "add": "http://slider.new/images/9.jpg",
+        "delete": "3",
+        "navigate": "3",
+        "style": {
+        	"visible": {
+			"width": 304,
+			"height": 250,
+			"className": "slide_container",
+			"overflow": "hidden"
+		},
+		"nonVisible": {
+			"className": "slide_images"
+		},
+		"image": {
+			"width": 300,
+			"height": 200,
+			"top": 5
+		},
+		"right": {
+			"width": "20",
+			"height": "20",
+			"cursor": "pointer",
+			"position":"absolute",
+			"right": "0",
+			"bottom": "7"
+		},
+		"left": {
+			"width": "20",
+			"height": "20",
+			"cursor": "pointer",
+			"position":"absolute",
+			"left": "0",
+			"bottom": "7"
+		},
+		"pagination": {
+			"position": "absolute",
+			"width": "250",
+			"height": "30",
+			"bottom": "0",
+			"left": "30"
+		},
+		"pagination_button": {
+			"width": "25",
+			"height": "25",
+			"display": "inline-block"
+		}
+        }
+}
+

@@ -1,0 +1,24 @@
+
+.slide_images img {
+  padding:0;
+  margin:0;
+  float:left; /* All the images are in a row next to each other. */
+}
+
+.slide_container {
+    position: relative;
+    margin:  0 auto;
+    -webkit-perspective: 1000;
+}
+.slide_images {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    -webkit-transition: -webkit-transform 1s;
+    -webkit-transform-style: preserve-3d;
+}
+.slide_images img {
+    display: block;
+    position: absolute;
+    border: 2px solid black;
+}
