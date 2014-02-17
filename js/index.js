@@ -9,7 +9,7 @@
 			}
 		}
 	};
-	req.open('GET', 'https://www.dropbox.com/s/vegeavggt4ue21m/conf.json', true);
+	req.open('GET', 'https://raw.github.com/Scoolboy/slider/master/conf.json', true);
 
 	req.send(null);
 })();
