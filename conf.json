@@ -1,14 +1,14 @@
 {
 	"images": [
-		"http://slider.new/images/1.jpg",
-		"http://slider.new/images/2.jpg",
-		"http://slider.new/images/3.jpg",
-		"http://slider.new/images/4.jpg",
-		"http://slider.new/images/5.jpg",
-		"http://slider.new/images/6.jpg",
-		"http://slider.new/images/7.jpg",
-		"http://slider.new/images/8.jpg"],
-        "add": "http://slider.new/images/9.jpg",
+		"http://scoolboy.github.io/images/1.jpg",
+		"http://scoolboy.github.io/images/2.jpg",
+		"http://scoolboy.github.io/images/3.jpg",
+		"http://scoolboy.github.io/images/4.jpg",
+		"http://scoolboy.github.io/images/5.jpg",
+		"http://scoolboy.github.io/images/6.jpg",
+		"http://scoolboy.github.io/images/7.jpg",
+		"http://scoolboy.github.io/images/8.jpg"],
+        "add": "http://scoolboy.github.io/images/9.jpg",
         "delete": "3",
         "navigate": "3",
         "style": {
